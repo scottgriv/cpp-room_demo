@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 //Get the Square Footage of a Room
-
 int main(void) {
     
     //Room 1
@@ -30,7 +29,7 @@ int main(void) {
     
     finalA = room1A + room2A + room3A;
     
-    //This is the final output
+    //Print the Final Output
     printf("%s %d\n", room, finalA); //This is also a comment
     
     return 0;
