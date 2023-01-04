@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 
-//Get the Square Footage of a Room
+//Get the Sum of the Square Footage of a 3 Rooms
 int main(void) {
     
     //Room 1
