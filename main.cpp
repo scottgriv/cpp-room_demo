@@ -34,7 +34,7 @@ int main(void) {
     finalA = room1A + room2A + room3A;
     
     //Print the Final Output
-    printf("%s %d\n", room, finalA); //This is also a comment
+    printf("%s %d\n", room, finalA);
     
     return 0;
 }
