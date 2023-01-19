@@ -1,3 +1,7 @@
+// Author: Scott Grivner
+// Website: scottgrivner.dev
+// Abstract: Get the sum square footage of multiple rooms.
+    
 #include <iostream>
 #include <stdio.h>
 
@@ -30,7 +34,7 @@ int main(void) {
     finalA = room1A + room2A + room3A;
     
     //Print the Final Output
-    printf("%s %d\n", room, finalA); //This is also a comment
+    printf("%s %d\n", room, finalA);
     
     return 0;
 }
