@@ -1,5 +1,5 @@
 // Author: Scott Grivner
-// Website: scottgrivner.dev
+// Website: linktr.ee/scottgriv
 // Abstract: Get the sum square footage of multiple rooms.
     
 #include <iostream>
